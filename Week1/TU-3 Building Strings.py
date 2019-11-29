@@ -5,7 +5,7 @@
 
 "I haven't been taught programming or let's say scripting as good as this."
 
-'"Meow, for cats ;)"'
+'"Meow, so cats cry :)"'
 
 firstname = 'Muhammad'
 
@@ -14,7 +14,7 @@ print(firstname + ' Maihaja') #concatenating
 # Splicing
 name = 'Muhammad Maihaja'
 
-print(name[0], name[5])
+print(name[0], name[5]) #Accessing individual characters from a string
 
 print(name[3:15])
 
