@@ -13,6 +13,3 @@ print(17 // 2) #quotient
 print(23 % 5)# Remainder
 
 print(2 ** 3 ** 2) #Exponent
-
-
-
