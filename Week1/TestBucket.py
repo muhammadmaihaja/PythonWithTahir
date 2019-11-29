@@ -19,4 +19,5 @@ for n in range(1,101):
     if mul4 in multipliers:
         print("Number ", n, " is a multiple of 4 \n")
 '''
-2 + 2
+for var in range(10):
+    print("I am awesome!")
